@@ -1,6 +1,6 @@
 # 📊 Curso Práctico de SQL - Ejercicios y Proyectos
 
-Repositorio dedicado al desarrollo, práctica y documentación de consultas en bases de datos relacionales, cubriendo desde fundamentos de extracción hasta técnicas intermedias y avanzadas de análisis y manipulación de datos.
+Repositorio dedicado al desarrollo, práctica y documentación de consultas en bases de datos relacionales.
 
 ---
 
